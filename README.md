@@ -13,7 +13,7 @@ Or connect the wire and install `linux-image-legacy-sun50iw9` `linux-dtb-legacy-
 The legacy kernel is 4.9, here are some other versions:
 
 ### 5.16
-I extracted stock kernel using dpkg-repack, you can download them from [Releases](https://github.com/iovxw/OrangePiZero2ArmbianWirelessFix/releases/latest)
+I extracted stock kernel using dpkg-repack, you can download them from [Releases](https://github.com/iovxw/OrangePiZero2ArmbianWirelessFix/releases/tag/linux5.16)
 
 ```sh
 dpkg -i linux-dtb-current-sun50iw9_3.0.0_arm64.deb linux-image-current-sun50iw9_3.0.0_arm64.deb
